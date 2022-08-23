@@ -1,0 +1,22 @@
+int batas_LPG = 200;
+int batas_co = 100 ;
+int batas_smoke = 400;
+
+#include <WifiClientSecure.h>
+#include <CTBot.h>
+
+#define BOTtoken "5075643213:AAECfpDfKbWdk0eja6bweF1iHoUcwMMD1Ek"
+#define chat id "1041951689"
+
+CTBot bot(BOTtoken, client);
+
+
+bacagas ();
+if (lpg > batas_LPG){
+bot.sendChatAction (chat_id, " Sedang Mengetik");
+Serial.println ("Kebocoran gas terdeteksi");
+Serial.print ("Harap waspada");
+delay (4000)
+} 
+
+
