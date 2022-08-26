@@ -9,4 +9,4 @@ Algoritma
 4. Tuang kembali sisa air pada ember 5 liter ke ember 3 liter. Terdapat air bervolume 2 liter pada ember tersebut. 
 5. ISi kembali ember 5 liter sampai penuh. 
 6. Tuang air pada ember 5 liter ke ember 3 liter sampai penuh. 
-7. Terdapat sisa air 4 liter pada ember 5 liter tersebut.  
+7. Terdapat sisa air 4 liter pada ember 5 liter tersebut.
