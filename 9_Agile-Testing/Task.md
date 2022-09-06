@@ -1,0 +1,11 @@
+Peran QE dalam fase SDLC ?
+- Requirement gathering, pada tahap ini QE menganalisis detail software, module, fitur dan fungsi yang akan dibangun, review dan memvalidasi jika masih ada kekurangan dan atau untuk melengkapi kejelasan requirement tersebut, menganalisa apa saja yang dapat diuji (testable) secara manual dan automated serta menganalisa cakupan fungsi atau fitur mana saja yang akan diuji secara functional dan non-functional.
+- Testing,  membuat test case, membuat test data, membuat script automation test berdasarkan test case, dan mulai melakukan smoke test untuk memastikan environment test apakah sudah benar-benar siap dan melakukan test execution atau eksekusi pengujian. 
+- Deployment, memastikan tidak adanya bug / issue pada saat program yang dibuat telah digunakan oleh user secara publik. 
+
+Tantangan menerapkan agile testing pada 5 poin agile testing manifesto! 
+1. testing is an activity not a phase, melakukan testing secara berkala dengan proses development, jadi tidak terpisah sendiri melainkan berdampingan dengan proses development.
+2. prevent bugs rather than finding bugs, lebih fokus untuk mencegah munculnya bug daripada menemukan bug. Alangkah baiknya kita tulis dulu seperti apa requirement dari fitur yang akan kita kerjakan sebelum memulai menulis code. Semua itu dapat dilakukan dengan berkomunikasi dengan sesama anggota team untuk benar-benar membangun aplikasi yang berkualitas.
+3. don't be checker, be a tester, sebagai seorang tester diharuskan untuk melihat suatu program dari sudut pandang user, melakukan usability testing, dan exploratory testing. 
+4. don't try to break the system, instead help build the best possible system, QE seharusnya memposisikan dirinya sebagai user, dan menilai product dari prespektif user sehingga dapat memberikan masukan yang membangun terhadap developer. 
+5. the whole team is responsible for quality, not just the tester,  setiap anggota tim bertanggung jawab berlandaskan kepemilikan bersama atas product yang dibangun, tidak hanya bertanggung jawab atas fase yang mereka tangani. 
