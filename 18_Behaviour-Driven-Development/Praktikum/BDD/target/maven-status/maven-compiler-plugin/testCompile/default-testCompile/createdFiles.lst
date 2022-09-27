@@ -1,0 +1,4 @@
+starter\stepdefinitions\user\Invitation.class
+starter\CucumberTestSuite.class
+starter\stepdefinitions\user\SearchJob.class
+starter\stepdefinitions\user\SignIn1.class
