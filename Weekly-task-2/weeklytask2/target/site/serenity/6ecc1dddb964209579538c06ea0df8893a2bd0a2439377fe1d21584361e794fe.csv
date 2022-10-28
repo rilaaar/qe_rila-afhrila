@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Cart","I want to get all cart","ERROR","2022-10-25T17:28:11.1774831+07:00[Asia/Bangkok]","0.0","1.05"
+"Cart","I want to Get a single cart","ERROR","2022-10-25T17:28:12.2535123+07:00[Asia/Bangkok]","0.0","0.06"
+"Cart","I want to Get Limit results Cart","ERROR","2022-10-25T17:28:12.3393335+07:00[Asia/Bangkok]","0.0","0.05"
+"Cart","I want to Get Sort results cart","ERROR","2022-10-25T17:28:12.3987205+07:00[Asia/Bangkok]","0.0","0.04"
+"Cart","I want to Add new cart","ERROR","2022-10-25T17:28:12.4486636+07:00[Asia/Bangkok]","0.0","0.03"

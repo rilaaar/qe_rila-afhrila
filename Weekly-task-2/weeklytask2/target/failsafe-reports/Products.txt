@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: Products
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 4.636 s <<< FAILURE! - in Products
+Products.I want to Get a single product  Time elapsed: 0.017 s  <<< ERROR!
+java.lang.NullPointerException
+
+Products.I want to Get Limit results  Time elapsed: 0.02 s  <<< ERROR!
+java.lang.NullPointerException
+
+Products.I want to Get Sort results  Time elapsed: 0.013 s  <<< ERROR!
+java.lang.NullPointerException
+
+Products.I want to Add new product  Time elapsed: 0.015 s  <<< ERROR!
+java.lang.NullPointerException
+
