@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User","I want to get all users","ERROR","2022-10-25T17:28:11.2836253+07:00[Asia/Bangkok]","0.0","0.94"
+"User","I want to Add new user","ERROR","2022-10-25T17:28:12.244692+07:00[Asia/Bangkok]","0.0","0.09"
+"User","I want to delete a user","ERROR","2022-10-25T17:28:12.3514428+07:00[Asia/Bangkok]","0.0","0.06"

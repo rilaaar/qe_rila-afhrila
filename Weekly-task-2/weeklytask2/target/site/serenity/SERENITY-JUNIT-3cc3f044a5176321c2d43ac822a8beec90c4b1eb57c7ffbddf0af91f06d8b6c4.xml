@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="3" failures="0" name="User" skipped="0" tests="3" time="1.09" timestamp="2022-10-25 05:28:11"><testcase name="I want to get all users"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+net.serenitybdd.rest.SerenityRest.lastResponse(SerenityRest.java:67)&#13;
+net.serenitybdd.rest.SerenityRest.then(SerenityRest.java:62)&#13;
+weeklytask2@1.0-SNAPSHOT/Login.LoginProject.validateStatusCode200(LoginProject.java:33)&#13;
+weeklytask2@1.0-SNAPSHOT/stepdefinitions.LoginStepDefinitions.iWillGetCode200(LoginStepDefinitions.java:29)&#13;
+✽.I will get code 200(file:///D:/Ra/file%20kuliah/semester%207/resume%20alta/Weekly-task-2/weeklytask2/src/test/resources/features/user.feature:9)&#13;
+</system-err></testcase><testcase name="I want to Add new user"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+net.serenitybdd.rest.SerenityRest.lastResponse(SerenityRest.java:67)&#13;
+net.serenitybdd.rest.SerenityRest.then(SerenityRest.java:62)&#13;
+weeklytask2@1.0-SNAPSHOT/Login.LoginProject.validateStatusCode200(LoginProject.java:33)&#13;
+weeklytask2@1.0-SNAPSHOT/stepdefinitions.LoginStepDefinitions.iWillGetCode200(LoginStepDefinitions.java:29)&#13;
+✽.I will get code 200(file:///D:/Ra/file%20kuliah/semester%207/resume%20alta/Weekly-task-2/weeklytask2/src/test/resources/features/user.feature:15)&#13;
+</system-err></testcase><testcase name="I want to delete a user"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+net.serenitybdd.rest.SerenityRest.lastResponse(SerenityRest.java:67)&#13;
+net.serenitybdd.rest.SerenityRest.then(SerenityRest.java:62)&#13;
+weeklytask2@1.0-SNAPSHOT/Login.LoginProject.validateStatusCode200(LoginProject.java:33)&#13;
+weeklytask2@1.0-SNAPSHOT/stepdefinitions.LoginStepDefinitions.iWillGetCode200(LoginStepDefinitions.java:29)&#13;
+✽.I will get code 200(file:///D:/Ra/file%20kuliah/semester%207/resume%20alta/Weekly-task-2/weeklytask2/src/test/resources/features/user.feature:20)&#13;
+</system-err></testcase></testsuite>

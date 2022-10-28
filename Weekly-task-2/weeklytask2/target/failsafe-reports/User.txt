@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: User
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 1.578 s <<< FAILURE! - in User
+User.I want to get all users  Time elapsed: 1.332 s  <<< ERROR!
+java.lang.NullPointerException
+
+User.I want to Add new user  Time elapsed: 0.094 s  <<< ERROR!
+java.lang.NullPointerException
+
+User.I want to delete a user  Time elapsed: 0.081 s  <<< ERROR!
+java.lang.NullPointerException
+

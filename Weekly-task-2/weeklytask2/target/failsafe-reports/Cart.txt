@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: Cart
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 1.638 s <<< FAILURE! - in Cart
+Cart.I want to get all cart  Time elapsed: 1.331 s  <<< ERROR!
+java.lang.NullPointerException
+
+Cart.I want to Get a single cart  Time elapsed: 0.082 s  <<< ERROR!
+java.lang.NullPointerException
+
+Cart.I want to Get Limit results Cart  Time elapsed: 0.063 s  <<< ERROR!
+java.lang.NullPointerException
+
+Cart.I want to Get Sort results cart  Time elapsed: 0.047 s  <<< ERROR!
+java.lang.NullPointerException
+
+Cart.I want to Add new cart  Time elapsed: 0.035 s  <<< ERROR!
+java.lang.NullPointerException
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="4" failures="0" name="Products" skipped="0" tests="5" time="4.18" timestamp="2022-10-25 05:28:11"><testcase name="I want to get all products"/><testcase name="I want to Get a single product"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+weeklytask2@1.0-SNAPSHOT/stepdefinitions.ProdukStepDefinitions.iSetUrlApiToGetASingleProduct(ProdukStepDefinitions.java:32)&#13;
+✽.I set url api to Get a single product(file:///D:/Ra/file%20kuliah/semester%207/resume%20alta/Weekly-task-2/weeklytask2/src/test/resources/features/produk.feature:12)&#13;
+</system-err></testcase><testcase name="I want to Get Limit results"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+weeklytask2@1.0-SNAPSHOT/stepdefinitions.ProdukStepDefinitions.iSetUrlApiToGetLimitResults(ProdukStepDefinitions.java:42)&#13;
+✽.I set url api to Get Limit results(file:///D:/Ra/file%20kuliah/semester%207/resume%20alta/Weekly-task-2/weeklytask2/src/test/resources/features/produk.feature:17)&#13;
+</system-err></testcase><testcase name="I want to Get Sort results"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+weeklytask2@1.0-SNAPSHOT/stepdefinitions.ProdukStepDefinitions.iSetUrlApiToGetSortResults(ProdukStepDefinitions.java:52)&#13;
+✽.I set url api to Get Sort results(file:///D:/Ra/file%20kuliah/semester%207/resume%20alta/Weekly-task-2/weeklytask2/src/test/resources/features/produk.feature:22)&#13;
+</system-err></testcase><testcase name="I want to Add new product"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+weeklytask2@1.0-SNAPSHOT/stepdefinitions.ProdukStepDefinitions.iSetUrlApiAddNewProduct(ProdukStepDefinitions.java:62)&#13;
+✽.I set url api Add new product(file:///D:/Ra/file%20kuliah/semester%207/resume%20alta/Weekly-task-2/weeklytask2/src/test/resources/features/produk.feature:27)&#13;
+</system-err></testcase></testsuite>
